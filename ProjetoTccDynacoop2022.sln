@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoTccDynacoop2022", "ProjetoTccDynacoop2022.csproj", "{33BDB970-7ABB-4895-9A24-FDBC7A142427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginsTcc", "..\PluginsTcc\PluginsTcc.csproj", "{88472CA5-ACF4-4A2A-8873-B05B0D2E8006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33BDB970-7ABB-4895-9A24-FDBC7A142427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BDB970-7ABB-4895-9A24-FDBC7A142427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BDB970-7ABB-4895-9A24-FDBC7A142427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BDB970-7ABB-4895-9A24-FDBC7A142427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88472CA5-ACF4-4A2A-8873-B05B0D2E8006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88472CA5-ACF4-4A2A-8873-B05B0D2E8006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88472CA5-ACF4-4A2A-8873-B05B0D2E8006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88472CA5-ACF4-4A2A-8873-B05B0D2E8006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {355B73BB-1F6E-4946-BB42-968512333A0D}
+	EndGlobalSection
+EndGlobal
